@@ -9,7 +9,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://www.google.com/search?q=gif+women+programmer&hl=fa&sxsrf=APq-WBtCTmF44XXYdW2d6BAMRdg0UC_2TQ:1649440797583&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGkMXmhYX3AhVKyKQKHZ2yAvYQ_AUoAXoECAEQAw&biw=1920&bih=903&dpr=1#imgrc=tkD88475CNPNmM">
+
 </div>
   
   ##
