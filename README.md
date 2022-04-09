@@ -19,7 +19,7 @@
   <a href = "zeynabyousefi1380@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/zeynab-yousefi-588009150/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/zeynabyousefi/zeynabyousefi/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 I started programming Python in 2021 so I entered the world of programming; At the beginning of 2022, when I had acquired skills, I started teaching Python, and in the summer of that year, I became acquainted with the Bootkamp of maktab Sharif, and by participating in the Django course, I was able to develop my skills and talents.
