@@ -26,15 +26,15 @@
  
  
 </div>
-I started programming Python in 2021 so I entered the world of programming; At the beginning of 2022, when I had acquired skills,and in the summer of that year, I became acquainted with the Bootkamp of maktab Sharif, and by participating in the Django course, I was able to develop my skills and talents.
+I started Python programming in 2021 when I entered the world of programming; I acquired some skills by the start of 2022, and in summer, I became acquainted with Maktab Sharif Bootcamp. By participating in the Django course, I was able to develop my skills and talents.
 
 
 
 Skills: Python - Django - Rest Full API - JS - Net Work - HTML - CSS - Bootstrap 
 
-- 🔭 I’m currently working on  Maktab Sharif Coding Bootcamp 
+- 🔭 I’m currently working on Maktab Sharif Coding Bootcamp 
 - 🌱 I’m currently learning Python - Django - Rest Full API 
-- 👯 I’m looking to collaborate on your company 
+- 👯 I’m looking forward to collaborate with your company 
 - 💬 Ask me about python - django 
 - 📫 How to reach me: zeynabyousefi1380@gmail.com 
 
