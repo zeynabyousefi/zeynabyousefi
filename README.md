@@ -26,7 +26,7 @@
  
  
 </div>
-I started programming in Python in 2021 when entered the world of programming; I acquired some skills by the start of 2022, and in summer, I became acquainted with Maktab Sharif Bootcamp. By participating in the Django course, I was able to develop my skills and talents.
+I started Python programming in 2021 when I entered the world of programming; I acquired some skills by the start of 2022, and in summer, I became acquainted with Maktab Sharif Bootcamp. By participating in the Django course, I was able to develop my skills and talents.
 
 
 
